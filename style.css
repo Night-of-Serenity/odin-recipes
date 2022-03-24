@@ -16,6 +16,6 @@ img {
     list-style-type: none;
 }
 
-button a {
+.no-underline-link {
     text-decoration: none;
 }
