@@ -1,13 +1,5 @@
 # odin-recipes
 
-This project create simple website for food recipes of some of my favorite food. 
+This is simple exercise project to create food recipes webpages using basic knowledge in html and css. All recipes were referenced from [https://www.allrecipes.com]
 
-In this project, I have used these knowledge to complete the work<br/>
--html page's basic template <br/>
--basic concept of tag in html for each kind of contents <br/>
--create link to other pages <br/>
--put image in html page <br/>
--create ordered list <br/>
--create unordered list <br/>
--basic knowledge of git and github for clone repository, add files into staged area, commit the change and push commits into remote repository host in github <br/>
--basic knowledge in linux command line to create and manipulate files and directory 
+
