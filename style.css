@@ -1,0 +1,17 @@
+img {
+    width: 450px;
+    height: auto;
+}
+
+.food-img {
+    width: 250px;
+    height: auto;
+}
+
+.container {
+    text-align: center;
+}
+
+.list-no-bullets {
+    list-style-type: none;
+}
